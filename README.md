@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raissaMatias
 - 👀 I’m interested in data base
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python and java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: she/her
