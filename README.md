@@ -2,7 +2,9 @@
 
 ## About Me 🎲
 
-I'm a data base student who attends FATEC University in São José dos Campos. I also study English and Chinese.
+Estudante de Banco de Dados com grande interesse por modelagem, análise e administração de dados. Estou em constante aprendizado de SQL, MySQL, PostgreSQL e fundamentos de banco de dados relacional e NoSQL.
+
+Possuo perfil analítico, gosto de resolver problemas com lógica e organização e estou me preparando para atuar profissionalmente com dados, seja no suporte a aplicações, otimização de consultas ou administração de sistemas.
 
 ## What's in my GitHub?  🐈‍⬛
 
