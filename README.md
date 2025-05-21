@@ -2,7 +2,7 @@
 
 ## About Me 🎲
 
-Estudante de Banco de Dados com grande interesse por modelagem, análise e administração de dados. Estou em constante aprendizado de SQL, MySQL, PostgreSQL e fundamentos de banco de dados relacional e NoSQL.
+Sou estudante de Banco de Dados com grande interesse por análise e administração de dados. Estou em constante aprendizado de SQL, MySQL, PostgreSQL e fundamentos de banco de dados relacional e NoSQL. Possuo também conhecimentos em Arte Digital, Efeitos Visuais e Modelagem 3D.
 
 Possuo perfil analítico, gosto de resolver problemas com lógica e organização e estou me preparando para atuar profissionalmente com dados, seja no suporte a aplicações, otimização de consultas ou administração de sistemas.
 
